@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="font-awesome.min.css">
     <link rel="icon" href="favicon.png">/css
-    <title>Recluse</title>
+    <title>ProTanki Community Armenia</title>
 </head>
 
 <body>
